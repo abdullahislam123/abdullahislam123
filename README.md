@@ -35,11 +35,21 @@ This section uses the Devicon library for clean, simple icon images.
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-islam-81730b2a1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/script.vibe1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR-TWITTER-HANDLE])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=About.me&logoColor=white)](https://[YOUR-PERSONAL-WEBSITE-URL])
+I understand. If the badges (icons with links) are not showing up correctly, it's usually due to a small mistake in the Markdown syntax or a typo in the URL.
 
+Since you are a web developer, I will give you the most robust version of the social media code. Please replace your entire current ### 🔗 Connect With Me section with this code and ensure you fix all the links.
+
+🔗 Connect With Me (Robust Code)
+Markdown
+
+<a href="https://www.linkedin.com/in/abdullah-islam-81730b2a1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/script.vibe1" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+&nbsp;
 ---
 
 ### 📊 GitHub Activity
