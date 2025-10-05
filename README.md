@@ -3,7 +3,7 @@
 Front-end Developer | Focusing on Modern Web Architectures
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[abdullahislam123]&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
