@@ -11,14 +11,16 @@
 ### 🚀 What I'm Building & Learning
 
 - 🔭 **Currently working on:** A **React.js** web based application 
-- 🌱 **Learning next:** New Tools and Emerging Technologies
+- 🌱 **Learning next:** New Tools and Emerging Technologies, specifically focusing on frontend performance optimization.
 - 💡 **Open to collaboration on:** Projects involving HTML, CSS, JavaScript, and modern UI/UX design.
-- 💬 **Ask me about:** Frontend development, specifically React.
+- 💬 **Ask me about:** Frontend development, specifically React, CSS-in-JS, and responsive design.
 - 📧 **Reach me at:** contactabdullahislam@gmail.com
 
 ---
 
 ### 🛠️ Core Web Tech Stack
+
+This section uses the Devicon library for clean, simple icon images.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
