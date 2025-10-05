@@ -35,14 +35,17 @@ This section uses the **Devicon** library for simple icon images.
 
 ### 🔗 Connect With Me
 
-[**YOUR SOCIAL ICONS WILL GO HERE**]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[abdullah-islam-81730b2a1])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[script.vibe1])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR-TWITTER-HANDLE])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=About.me&logoColor=white)](https://[YOUR-PERSONAL-WEBSITE-URL])
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[abdullshislam123]&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[abdullahislam123]&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="Your GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[abdullahislam123]&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
