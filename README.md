@@ -1,26 +1,24 @@
 # Hi, I'm Abdullah 👋
 
-Front-end Developer | Focusing on Modern Web Architectures
+### Front-end Developer | Focusing on Modern Web Architectures
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[abdullahislam123]&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahislam123&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 What I'm Building & Learning
 
-- 🔭 **Currently working on:** A reach-js web based application 
+- 🔭 **Currently working on:** A **React.js** web based application 
 - 🌱 **Learning next:** New Tools and Emerging Technologies
-- 💡 **Open to collaboration on:** Projects involving HTML ,CSS , Java Script, and modern UI/UX design.
-- 💬 **Ask me about:** Frontend .
-- 📧 **Reach me at:** [contactabdullahislam@gmail.com]
+- 💡 **Open to collaboration on:** Projects involving HTML, CSS, JavaScript, and modern UI/UX design.
+- 💬 **Ask me about:** Frontend development, specifically React.
+- 📧 **Reach me at:** contactabdullahislam@gmail.com
 
 ---
 
 ### 🛠️ Core Web Tech Stack
-
-This section uses the **Devicon** library for simple icon images.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -35,8 +33,8 @@ This section uses the **Devicon** library for simple icon images.
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[abdullah-islam-81730b2a1])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[script.vibe1])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-islam-81730b2a1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/script.vibe1)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR-TWITTER-HANDLE])
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=About.me&logoColor=white)](https://[YOUR-PERSONAL-WEBSITE-URL])
 
@@ -45,7 +43,9 @@ This section uses the **Devicon** library for simple icon images.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[abdullahislam123]&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahislam123&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[abdullahislam123]&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahislam123&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="Your GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahislam123&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
