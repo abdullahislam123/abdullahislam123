@@ -59,5 +59,5 @@ Markdown
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahislam123&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="Your GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahislam123&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahislam123&theme=dark&hide_border=true%22%20alt=%22GitHub%20Streak" />
 </p>
