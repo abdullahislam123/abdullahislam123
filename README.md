@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a full-stack web application to solve real-world problems.<br><br>👯 I’m looking to collaborate on: Open-source projects related to react Js or simpel html css js.<br><br>🤝 I’m looking for help with: Mastering advanced System Design and Scalability.<br><br>🌱 I’m currently learning: Flutter for cross-platform mobile development.<br><br>💬 Ask me about: React, Database Management, or Front-end Optimization.<br><br>⚡ Fun fact: I spend more time choosing a VS Code theme than actually coding!
+🔭 I’m currently working on: Building a full-stack web application to solve real-world problems.<br><br>👯 I’m looking to collaborate on: Open-source projects related to SAAS products.<br><br>🤝 I’m looking for help with: Mastering advanced System Design and Scalability.<br><br>🌱 I’m currently learning: Flutter for cross-platform mobile development.<br><br>💬 Ask me about: React, Database Management, or Front-end Optimization.<br><br>⚡ Fun fact: I spend more time choosing a VS Code theme than actually coding!
 
 
 ## 🌐 Socials:
